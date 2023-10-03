@@ -1,8 +1,8 @@
 # Higgs Dalitz muon channel analysis
-<img src="https://render.githubusercontent.com/render/math?math=H\rightarrow\gamma^*\gamma\rightarrow ll\gamma"> is a rare Higgs decay. This repository is for the muon channel of Higgs Dalitz decay(<img src="https://render.githubusercontent.com/render/math?math=l=\mu">) analysis. 
+<img src="https://render.githubusercontent.com/render/math?math=H\rightarrow\gamma^*\gamma\rightarrow ll\gamma"> is a rare Higgs decay. This repository is for the muon channel of Higgs Dalitz decay analysis. 
 
 ## Usage
-The ntuples were produced by the [ggNtuplizer](https://github.com/cmkuo/ggAnalysis/tree/106X). Signal MC ntuples need to be skimmed to filtered out the events with (<img src="https://render.githubusercontent.com/render/math?math=m_{\mu\mu} > 50 GeV">) first. 
+The ntuples were produced by the [ggNtuplizer](https://github.com/cmkuo/ggAnalysis/tree/106X). Signal MC ntuples must be skimmed to filter out the events with a dimuon mass of less than 50 GeV first. 
 ```bash
 sh runSkim.sh
 ```
