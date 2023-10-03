@@ -1,0 +1,960 @@
+nohup: ignoring input
+[0;32mStart to skim the ggNtuples!
+[0m[0;32mSkim the following ntuples sequentially
+[0m[0;32m 1. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_m125_preVFP/*.root
+[0m[0;32m 2. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_VBF_m125_preVFP/*.root
+[0m[0;32m 3. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_WH_m125_preVFP/*.root
+[0m[0;32m 4. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_ZH_m125_preVFP/*.root
+[0m[0;32m 5. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_ttH_m125_preVFP/*.root
+[0m[0;32m 6. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_bbH_m125_preVFP/*.root
+[0m[0;32m 7. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_m120_preVFP/*.root
+[0m[0;32m 8. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_VBF_m120_preVFP/*.root
+[0m[0;32m 9. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_WH_m120_preVFP/*.root
+[0m[0;32m 10. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_ZH_m120_preVFP/*.root
+[0m[0;32m 11. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_ttH_m120_preVFP/*.root
+[0m[0;32m 12. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_bbH_m120_preVFP/*.root
+[0m[0;32m 13. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_m130_preVFP/*.root
+[0m[0;32m 14. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_VBF_m130_preVFP/*.root
+[0m[0;32m 15. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_WH_m130_preVFP/*.root
+[0m[0;32m 16. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_ZH_m130_preVFP/*.root
+[0m[0;32m 17. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_ttH_m130_preVFP/*.root
+[0m[0;32m 18. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_bbH_m130_preVFP/*.root
+[0m
+********************************   1    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_m125_preVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_m125_preVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_m125_preVFP
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+mc preslections: pass=1048998    all=2147971    -- eff=48.84 % cumulative eff=48.84 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   2    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_VBF_m125_preVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_VBF_m125_preVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_VBF_m125_preVFP
+mc preslections: pass=1032795    all=2114000    -- eff=48.86 % cumulative eff=48.86 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   3    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_WH_m125_preVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_WH_m125_preVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_WH_m125_preVFP
+mc preslections: pass=501303     all=1025722    -- eff=48.87 % cumulative eff=48.87 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   4    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_ZH_m125_preVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_ZH_m125_preVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_ZH_m125_preVFP
+mc preslections: pass=546312     all=1118047    -- eff=48.86 % cumulative eff=48.86 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   5    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_ttH_m125_preVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_ttH_m125_preVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_ttH_m125_preVFP
+mc preslections: pass=503650     all=1030000    -- eff=48.90 % cumulative eff=48.90 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   6    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_bbH_m125_preVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_bbH_m125_preVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_bbH_m125_preVFP
+mc preslections: pass=527199     all=1080000    -- eff=48.81 % cumulative eff=48.81 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   7    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_m120_preVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_m120_preVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_m120_preVFP
+mc preslections: pass=1187458    all=2126602    -- eff=55.84 % cumulative eff=55.84 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   8    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_VBF_m120_preVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_VBF_m120_preVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_VBF_m120_preVFP
+mc preslections: pass=1206804    all=2160000    -- eff=55.87 % cumulative eff=55.87 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   9    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_WH_m120_preVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_WH_m120_preVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_WH_m120_preVFP
+mc preslections: pass=596937     all=1069293    -- eff=55.83 % cumulative eff=55.83 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   10    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_ZH_m120_preVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_ZH_m120_preVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_ZH_m120_preVFP
+mc preslections: pass=599987     all=1073355    -- eff=55.90 % cumulative eff=55.90 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   11    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_ttH_m120_preVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_ttH_m120_preVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_ttH_m120_preVFP
+mc preslections: pass=600162     all=1075000    -- eff=55.83 % cumulative eff=55.83 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   12    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_bbH_m120_preVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_bbH_m120_preVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_bbH_m120_preVFP
+mc preslections: pass=603623     all=1080000    -- eff=55.89 % cumulative eff=55.89 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   13    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_m130_preVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_m130_preVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_m130_preVFP
+mc preslections: pass=900561     all=2088349    -- eff=43.12 % cumulative eff=43.12 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   14    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_VBF_m130_preVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_VBF_m130_preVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_VBF_m130_preVFP
+mc preslections: pass=894665     all=2076000    -- eff=43.10 % cumulative eff=43.10 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   15    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_WH_m130_preVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_WH_m130_preVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_WH_m130_preVFP
+mc preslections: pass=464862     all=1078672    -- eff=43.10 % cumulative eff=43.10 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   16    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_ZH_m130_preVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_ZH_m130_preVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_ZH_m130_preVFP
+mc preslections: pass=460638     all=1068828    -- eff=43.10 % cumulative eff=43.10 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   17    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_ttH_m130_preVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_ttH_m130_preVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_ttH_m130_preVFP
+mc preslections: pass=466335     all=1080000    -- eff=43.18 % cumulative eff=43.18 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   18    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_bbH_m130_preVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_bbH_m130_preVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_bbH_m130_preVFP
+mc preslections: pass=465656     all=1080000    -- eff=43.12 % cumulative eff=43.12 %
+
+Real time 0:12:41, CP time 10420.880
+[0;32mStart to skim the ggNtuples!
+[0m[0;32mSkim the following ntuples sequentially
+[0m[0;32m 1. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_m125_postVFP/*.root
+[0m[0;32m 2. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_VBF_m125_postVFP/*.root
+[0m[0;32m 3. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_WH_m125_postVFP/*.root
+[0m[0;32m 4. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_ZH_m125_postVFP/*.root
+[0m[0;32m 5. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_ttH_m125_postVFP/*.root
+[0m[0;32m 6. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_bbH_m125_postVFP/*.root
+[0m[0;32m 7. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_m120_postVFP/*.root
+[0m[0;32m 8. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_VBF_m120_postVFP/*.root
+[0m[0;32m 9. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_WH_m120_postVFP/*.root
+[0m[0;32m 10. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_ZH_m120_postVFP/*.root
+[0m[0;32m 11. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_ttH_m120_postVFP/*.root
+[0m[0;32m 12. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_bbH_m120_postVFP/*.root
+[0m[0;32m 13. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_m130_postVFP/*.root
+[0m[0;32m 14. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_VBF_m130_postVFP/*.root
+[0m[0;32m 15. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_WH_m130_postVFP/*.root
+[0m[0;32m 16. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_ZH_m130_postVFP/*.root
+[0m[0;32m 17. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_ttH_m130_postVFP/*.root
+[0m[0;32m 18. /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_bbH_m130_postVFP/*.root
+[0m
+********************************   1    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_m125_postVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_m125_postVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_m125_postVFP
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+mc preslections: pass=890738     all=1825052    -- eff=48.81 % cumulative eff=48.81 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   2    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_VBF_m125_postVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_VBF_m125_postVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_VBF_m125_postVFP
+mc preslections: pass=857427     all=1754000    -- eff=48.88 % cumulative eff=48.88 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   3    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_WH_m125_postVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_WH_m125_postVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_WH_m125_postVFP
+mc preslections: pass=445016     all=910746     -- eff=48.86 % cumulative eff=48.86 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   4    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_ZH_m125_postVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_ZH_m125_postVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_ZH_m125_postVFP
+mc preslections: pass=450692     all=924063     -- eff=48.77 % cumulative eff=48.77 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   5    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_ttH_m125_postVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_ttH_m125_postVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_ttH_m125_postVFP
+mc preslections: pass=449637     all=920000     -- eff=48.87 % cumulative eff=48.87 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   6    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_bbH_m125_postVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_bbH_m125_postVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_bbH_m125_postVFP
+mc preslections: pass=430571     all=881000     -- eff=48.87 % cumulative eff=48.87 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   7    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_m120_postVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_m120_postVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_m120_postVFP
+mc preslections: pass=988583     all=1766371    -- eff=55.97 % cumulative eff=55.97 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   8    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_VBF_m120_postVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_VBF_m120_postVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_VBF_m120_postVFP
+mc preslections: pass=1028361    all=1840000    -- eff=55.89 % cumulative eff=55.89 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   9    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_WH_m120_postVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_WH_m120_postVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_WH_m120_postVFP
+mc preslections: pass=517292     all=926648     -- eff=55.82 % cumulative eff=55.82 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   10    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_ZH_m120_postVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_ZH_m120_postVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_ZH_m120_postVFP
+mc preslections: pass=506843     all=907583     -- eff=55.85 % cumulative eff=55.85 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   11    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_ttH_m120_postVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_ttH_m120_postVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_ttH_m120_postVFP
+mc preslections: pass=497990     all=891000     -- eff=55.89 % cumulative eff=55.89 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   12    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_bbH_m120_postVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_bbH_m120_postVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_bbH_m120_postVFP
+mc preslections: pass=514074     all=920000     -- eff=55.88 % cumulative eff=55.88 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   13    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_m130_postVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_m130_postVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_m130_postVFP
+mc preslections: pass=768765     all=1784019    -- eff=43.09 % cumulative eff=43.09 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   14    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_VBF_m130_postVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_VBF_m130_postVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_VBF_m130_postVFP
+mc preslections: pass=776335     all=1800000    -- eff=43.13 % cumulative eff=43.13 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   15    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_WH_m130_postVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_WH_m130_postVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_WH_m130_postVFP
+mc preslections: pass=378891     all=878131     -- eff=43.15 % cumulative eff=43.15 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   16    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_ZH_m130_postVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_ZH_m130_postVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_ZH_m130_postVFP
+mc preslections: pass=398794     all=924742     -- eff=43.12 % cumulative eff=43.12 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   17    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_ttH_m130_postVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_ttH_m130_postVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_ttH_m130_postVFP
+mc preslections: pass=396775     all=920000     -- eff=43.13 % cumulative eff=43.13 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   18    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL16_Dalitz_mmg_bbH_m130_postVFP/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL16_Dalitz_mmg_bbH_m130_postVFP.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL16_Dalitz_mmg_bbH_m130_postVFP
+mc preslections: pass=397405     all=920000     -- eff=43.20 % cumulative eff=43.20 %
+
+Real time 0:10:29, CP time 7753.790
+[0;32mStart to skim the ggNtuples!
+[0m[0;32mSkim the following ntuples sequentially
+[0m[0;32m 1. /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_m125/*.root
+[0m[0;32m 2. /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_VBF_m125/*.root
+[0m[0;32m 3. /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_WH_m125/*.root
+[0m[0;32m 4. /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_ZH_m125/*.root
+[0m[0;32m 5. /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_ttH_m125/*.root
+[0m[0;32m 6. /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_bbH_m125/*.root
+[0m[0;32m 7. /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_m120/*.root
+[0m[0;32m 8. /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_VBF_m120/*.root
+[0m[0;32m 9. /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_WH_m120/*.root
+[0m[0;32m 10. /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_ZH_m120/*.root
+[0m[0;32m 11. /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_ttH_m120/*.root
+[0m[0;32m 12. /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_bbH_m120/*.root
+[0m[0;32m 13. /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_m130/*.root
+[0m[0;32m 14. /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_VBF_m130/*.root
+[0m[0;32m 15. /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_WH_m130/*.root
+[0m[0;32m 16. /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_ZH_m130/*.root
+[0m[0;32m 17. /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_ttH_m130/*.root
+[0m[0;32m 18. /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_bbH_m130/*.root
+[0m
+********************************   1    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_m125/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL17_Dalitz_mmg_m125.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL17_Dalitz_mmg_m125
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+mc preslections: pass=1933798    all=3955093    -- eff=48.89 % cumulative eff=48.89 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   2    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_VBF_m125/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL17_Dalitz_mmg_VBF_m125.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL17_Dalitz_mmg_VBF_m125
+mc preslections: pass=1911712    all=3910000    -- eff=48.89 % cumulative eff=48.89 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   3    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_WH_m125/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL17_Dalitz_mmg_WH_m125.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL17_Dalitz_mmg_WH_m125
+mc preslections: pass=975310     all=1994623    -- eff=48.90 % cumulative eff=48.90 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   4    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_ZH_m125/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL17_Dalitz_mmg_ZH_m125.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL17_Dalitz_mmg_ZH_m125
+mc preslections: pass=983590     all=2014291    -- eff=48.83 % cumulative eff=48.83 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   5    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_ttH_m125/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL17_Dalitz_mmg_ttH_m125.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL17_Dalitz_mmg_ttH_m125
+mc preslections: pass=973235     all=1993000    -- eff=48.83 % cumulative eff=48.83 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   6    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_bbH_m125/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL17_Dalitz_mmg_bbH_m125.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL17_Dalitz_mmg_bbH_m125
+mc preslections: pass=959185     all=1962000    -- eff=48.89 % cumulative eff=48.89 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   7    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_m120/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL17_Dalitz_mmg_m120.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL17_Dalitz_mmg_m120
+mc preslections: pass=2249367    all=4026494    -- eff=55.86 % cumulative eff=55.86 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   8    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_VBF_m120/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL17_Dalitz_mmg_VBF_m120.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL17_Dalitz_mmg_VBF_m120
+mc preslections: pass=2168560    all=3880000    -- eff=55.89 % cumulative eff=55.89 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   9    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_WH_m120/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL17_Dalitz_mmg_WH_m120.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL17_Dalitz_mmg_WH_m120
+mc preslections: pass=1154983    all=2069083    -- eff=55.82 % cumulative eff=55.82 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   10    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_ZH_m120/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL17_Dalitz_mmg_ZH_m120.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL17_Dalitz_mmg_ZH_m120
+mc preslections: pass=1104180    all=1975304    -- eff=55.90 % cumulative eff=55.90 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   11    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_ttH_m120/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL17_Dalitz_mmg_ttH_m120.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL17_Dalitz_mmg_ttH_m120
+mc preslections: pass=1094686    all=1960000    -- eff=55.85 % cumulative eff=55.85 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   12    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_bbH_m120/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL17_Dalitz_mmg_bbH_m120.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL17_Dalitz_mmg_bbH_m120
+mc preslections: pass=1097615    all=1965000    -- eff=55.86 % cumulative eff=55.86 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   13    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_m130/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL17_Dalitz_mmg_m130.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL17_Dalitz_mmg_m130
+mc preslections: pass=1657620    all=3843615    -- eff=43.13 % cumulative eff=43.13 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   14    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_VBF_m130/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL17_Dalitz_mmg_VBF_m130.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL17_Dalitz_mmg_VBF_m130
+mc preslections: pass=1706679    all=3957000    -- eff=43.13 % cumulative eff=43.13 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   15    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_WH_m130/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL17_Dalitz_mmg_WH_m130.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL17_Dalitz_mmg_WH_m130
+mc preslections: pass=869506     all=2009139    -- eff=43.28 % cumulative eff=43.28 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   16    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_ZH_m130/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL17_Dalitz_mmg_ZH_m130.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL17_Dalitz_mmg_ZH_m130
+mc preslections: pass=850706     all=1972068    -- eff=43.14 % cumulative eff=43.14 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   17    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_ttH_m130/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL17_Dalitz_mmg_ttH_m130.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL17_Dalitz_mmg_ttH_m130
+mc preslections: pass=826726     all=1915000    -- eff=43.17 % cumulative eff=43.17 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   18    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL17_Dalitz_mmg_bbH_m130/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL17_Dalitz_mmg_bbH_m130.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL17_Dalitz_mmg_bbH_m130
+mc preslections: pass=855302     all=1981000    -- eff=43.18 % cumulative eff=43.18 %
+
+Real time 0:21:02, CP time 18824.000
+[0;32mStart to skim the ggNtuples!
+[0m[0;32mSkim the following ntuples sequentially
+[0m[0;32m 1. /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_m125/*.root
+[0m[0;32m 2. /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_VBF_m125/*.root
+[0m[0;32m 3. /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_WH_m125/*.root
+[0m[0;32m 4. /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_ZH_m125/*.root
+[0m[0;32m 5. /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_ttH_m125/*.root
+[0m[0;32m 6. /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_bbH_m125/*.root
+[0m[0;32m 7. /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_m120/*.root
+[0m[0;32m 8. /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_VBF_m120/*.root
+[0m[0;32m 9. /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_WH_m120/*.root
+[0m[0;32m 10. /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_ZH_m120/*.root
+[0m[0;32m 11. /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_ttH_m120/*.root
+[0m[0;32m 12. /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_bbH_m120/*.root
+[0m[0;32m 13. /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_m130/*.root
+[0m[0;32m 14. /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_VBF_m130/*.root
+[0m[0;32m 15. /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_WH_m130/*.root
+[0m[0;32m 16. /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_ZH_m130/*.root
+[0m[0;32m 17. /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_ttH_m130/*.root
+[0m[0;32m 18. /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_bbH_m130/*.root
+[0m
+********************************   1    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_m125/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL18_Dalitz_mmg_m125.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL18_Dalitz_mmg_m125
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+mc preslections: pass=1876787    all=3840442    -- eff=48.87 % cumulative eff=48.87 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   2    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_VBF_m125/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL18_Dalitz_mmg_VBF_m125.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL18_Dalitz_mmg_VBF_m125
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+mc preslections: pass=1867247    all=3820000    -- eff=48.88 % cumulative eff=48.88 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   3    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_WH_m125/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL18_Dalitz_mmg_WH_m125.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL18_Dalitz_mmg_WH_m125
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+mc preslections: pass=958586     all=1961445    -- eff=48.87 % cumulative eff=48.87 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   4    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_ZH_m125/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL18_Dalitz_mmg_ZH_m125.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL18_Dalitz_mmg_ZH_m125
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+mc preslections: pass=911291     all=1865801    -- eff=48.84 % cumulative eff=48.84 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   5    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_ttH_m125/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL18_Dalitz_mmg_ttH_m125.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL18_Dalitz_mmg_ttH_m125
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+mc preslections: pass=973929     all=1991000    -- eff=48.92 % cumulative eff=48.92 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   6    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_bbH_m125/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL18_Dalitz_mmg_bbH_m125.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL18_Dalitz_mmg_bbH_m125
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+mc preslections: pass=708696     all=1451000    -- eff=48.84 % cumulative eff=48.84 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   7    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_m120/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL18_Dalitz_mmg_m120.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL18_Dalitz_mmg_m120
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+mc preslections: pass=2189532    all=3918296    -- eff=55.88 % cumulative eff=55.88 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   8    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_VBF_m120/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL18_Dalitz_mmg_VBF_m120.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL18_Dalitz_mmg_VBF_m120
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+mc preslections: pass=2199965    all=3934000    -- eff=55.92 % cumulative eff=55.92 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   9    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_WH_m120/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL18_Dalitz_mmg_WH_m120.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL18_Dalitz_mmg_WH_m120
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+mc preslections: pass=1110307    all=1990399    -- eff=55.78 % cumulative eff=55.78 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   10    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_ZH_m120/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL18_Dalitz_mmg_ZH_m120.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL18_Dalitz_mmg_ZH_m120
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+mc preslections: pass=1133607    all=2029712    -- eff=55.85 % cumulative eff=55.85 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   11    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_ttH_m120/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL18_Dalitz_mmg_ttH_m120.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL18_Dalitz_mmg_ttH_m120
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+mc preslections: pass=853779     all=1528000    -- eff=55.88 % cumulative eff=55.88 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   12    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_bbH_m120/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL18_Dalitz_mmg_bbH_m120.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL18_Dalitz_mmg_bbH_m120
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+mc preslections: pass=1041675    all=1865000    -- eff=55.85 % cumulative eff=55.85 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   13    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_m130/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL18_Dalitz_mmg_m130.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL18_Dalitz_mmg_m130
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+mc preslections: pass=1598484    all=3705304    -- eff=43.14 % cumulative eff=43.14 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   14    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_VBF_m130/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL18_Dalitz_mmg_VBF_m130.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL18_Dalitz_mmg_VBF_m130
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+mc preslections: pass=1595568    all=3698000    -- eff=43.15 % cumulative eff=43.15 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   15    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_WH_m130/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL18_Dalitz_mmg_WH_m130.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL18_Dalitz_mmg_WH_m130
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+mc preslections: pass=792563     all=1831895    -- eff=43.26 % cumulative eff=43.26 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   16    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_ZH_m130/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL18_Dalitz_mmg_ZH_m130.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL18_Dalitz_mmg_ZH_m130
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+mc preslections: pass=766102     all=1773605    -- eff=43.19 % cumulative eff=43.19 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   17    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_ttH_m130/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL18_Dalitz_mmg_ttH_m130.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL18_Dalitz_mmg_ttH_m130
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+Error in <TTreeReaderArrayBase::GetBranchAndLeaf()>: The tree does not have a branch called phoCorrESEnToRawE. You could check with TTree::Print() for available branches.
+mc preslections: pass=845602     all=1960000    -- eff=43.14 % cumulative eff=43.14 %
+Info in <Snapshot>: Column CorrTree.event will be saved as CorrTree_event
+Info in <Snapshot>: Column CorrTree.lumis will be saved as CorrTree_lumis
+Info in <Snapshot>: Column CorrTree.run will be saved as CorrTree_run
+
+********************************   18    ********************************
+Find input file(s): /data5/ggNtuples/V10_06_30_02/job_UL18_Dalitz_mmg_bbH_m130/*.root
+Save skim file    : /data4/chenghan/muon/skimTree/job_UL18_Dalitz_mmg_bbH_m130.root
+ [+] Shower shape corrected path found:
+     - /data5/ggNtuples/V10_06_30_02_sscorr/job_UL18_Dalitz_mmg_bbH_m130
+mc preslections: pass=837346     all=1941000    -- eff=43.14 % cumulative eff=43.14 %
+
+Real time 0:18:54, CP time 15650.650
