@@ -7,9 +7,7 @@ We have an analysis environment set in HDalitzEle package, if not look at https:
 
 We can use that and set the same environment by :
 ```bash
-cd Path_to_HDalitzEle/
-source en_ana.sh
-cd -
+source Path_to_HDalitzEle/en_ana.sh
 ```
 
 
