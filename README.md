@@ -4,6 +4,7 @@ cd HDalitzMu
 ```
 
 We have an analysis environment set in HDalitzEle package, if not look at https://github.com/DebabrataBhowmik/HDalitzEle 
+
 We can use that and set the same environment by :
 ```bash
 cd Path_to_HDalitzEle/
@@ -17,6 +18,7 @@ cd -
 
 ## Usage
 The ntuples were produced by the [ggNtuplizer](https://github.com/cmkuo/ggAnalysis/tree/106X). Signal MC ntuples must be skimmed to filter out the events with a dimuon mass of less than 50 GeV first. 
+
 Make the executable out of skimTree and the run the runskim.sh: 
 
 ```bash
